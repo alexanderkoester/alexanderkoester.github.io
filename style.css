@@ -52,8 +52,8 @@
 
 
 .bodytext {text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 20px;
@@ -61,12 +61,15 @@
 }
 
 
-p { color: rgb(176, 223, 224);}
-
-.plink {color: maroon;}
-
-
-
 body {
     background-color: rgb(207, 253, 253);
+  }
+
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-bottom: 20px;
   }
